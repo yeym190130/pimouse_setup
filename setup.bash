@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by t-kato-ye
+#Written by kato-ye
 
 exec 2> /tmp/setup.log
 
